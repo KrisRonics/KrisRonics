@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KrisRonics
+- 👀 I’m interested in.. Game Development
+- 🌱 I’m currently learning.. Game Developmmmet Frameworks
+- 💞️ I’m looking to collaborate on.. projects based on development
+- 📫 How to reach me.. @sumanyuharjai@gmail.com
+- 😄 Pronouns:.. He/Him
