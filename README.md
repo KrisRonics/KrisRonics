@@ -8,17 +8,22 @@
 >
 > I build apps.
 >
-> I write code  **Python, Java, C and C++**.
+> I write code in **Python, Java, C and C++**.
 >
-> I mess around  **Git, Replit, MongoDB, Firebase and Azure**.
+> I mess around with **Git, Replit, MongoDB, Firebase and Azure**.
 >
 > I've had ideas that sounded brilliant at 2 AM and absolutely terrible at 10 AM.
 >
-> I've broken things.  
+> I've broken things.
+>
 > Fixed things.
-> Broken again.
-> Rebuilt entirely.
-> Regretted deleting.  
+>
+> Broken them again.
+>
+> Rebuilt them entirely.
+>
+> Regretted deleting it.
+>
 > And occasionally wondered why the damn thing worked in the first place.
 >
 > I've built things that worked.
@@ -32,7 +37,6 @@
 > So yeah...
 >
 > **Let's see what happens.** 🚀
-
 ---
 
 ## 🧠 What I'm About
