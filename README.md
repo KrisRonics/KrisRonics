@@ -41,154 +41,173 @@
 
 ## 🧠 What I'm About
 
-I'm interested in building **useful, creative and slightly crazy software**.
+So apparently I'm supposed to tell you what I'm about here.
 
-I enjoy taking an idea from:
+Fine.
 
-**💡 Idea → 🎨 Concept → 💻 Code → 🧪 Testing → 🚀 Something Real**
+I like building things.
 
-I don't just want to learn technologies.
+Useful things.
+Creative things.
+Things that probably didn't need to exist until I decided they did.
 
-I want to **build things with them.**
+I take an idea...
 
----
+**💡 → 🎨 → 💻 → 🧪 → 🚀**
 
-## 🛠️ My Toolbox
+And then I spend an unreasonable amount of time trying to make it work.
 
-### 👨‍💻 Languages
+Sometimes it does.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+Sometimes it doesn't.
 
-### ⚙️ Development & Tools
+That's usually when things get interesting.
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
-</p>
+I don't particularly enjoy learning technology just for the sake of knowing it.
 
-### ☁️ Cloud, Backend & Databases
+I'd rather build something with it.
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
-
----
-
-## 🚧 Currently Building
-
-The plan is simple:
-
-**Learn → Build → Break → Fix → Ship → Repeat.**
-
-Right now I'm focused on:
-
-- 📱 Building real applications
-- 🌐 Exploring web & backend development
-- 🧠 Sharpening DSA and problem-solving
-- ☁️ Getting better with cloud technologies
-- 🤖 Experimenting with AI/ML
-- 🧪 Learning to write better, cleaner and more reliable software
-- 🚀 Turning random ideas into actual projects
+**Because knowing how the hammer works is cool.  
+Building something with it is cooler.**
 
 ---
 
 ## 🚀 Projects
 
-> *A collection of things I've built, broken, fixed, and shipped.*
+> **They're coming.**
 
-### 🔥 Featured Project
+Some are ideas.
 
-**Coming soon...**
+Some are half-built.
 
-> The next project is already brewing.
+Some are currently being held together by code I don't remember writing.
 
-`████████████████░░░░ 80%`
+A few might actually survive.
 
----
+### 🔥 Featured
 
-### 🧪 Experiments
+**[ CLASSIFIED ]**
 
-A playground for:
-
-- 🧠 Random ideas
-- ⚙️ Technical experiments
-- 🤖 AI/ML experiments
-- 💻 New technologies
-- 🗿 Things that seemed like a good idea at 2 AM
+You'll know when it's ready.
 
 ---
 
+## 🧪 Experiments
+
+Not everything needs a name.
+
+Some things are just...
+
+**experiments.**
+
+A strange idea.
+
+A new technology.
+
+A questionable architectural decision.
+
+Something that worked at 3 AM.
+
+Something that absolutely shouldn't have.
+
+Some will become projects.
+
+Some will disappear.
+
+**That's the point.**
+
+---
 
 ## 🎯 The 6-Month Mission
 
-I'm giving myself the next **6 months** to seriously level up.
+Six months.
 
-### 🧩 Build more
-### 🧠 Learn deeper
-### 💻 Code consistently
-### 🚀 Ship real projects
-### 📈 Become a better developer
+That's enough time.
 
-No shortcuts.
+Enough time to build.
 
-No collecting 47 certificates just to make a profile look busy.
+Enough time to fail.
 
-**Just build.**
+Enough time to get better.
+
+Enough time to become someone who doesn't need to say they're getting better.
+
+So that's the plan.
+
+**Build.**
+
+**Learn.**
+
+**Break.**
+
+**Fix.**
+
+**Ship.**
+
+Then do it again.
+
+No grand announcement.
+
+No dramatic transformation montage.
+
+Just six months of work.
+
+**We'll see what's left standing.**
 
 ---
 
 ## ⚡ A Few Things About Me
 
-🎮 I like games — especially the stuff happening behind the screen.
+Okay, apparently you made it this far.
 
-🥁 I like music and drums.
+Congratulations.
 
-🎨 I enjoy creative work, design and experimenting with ideas.
+🎮 I like games.
 
-🏐 Volleyball. 🏏 Cricket. 🏊 Swimming.
+No, not just playing them.
 
-💡 I can turn one random idea into approximately **17 new ideas** before finishing the first one.
+I like wondering **how the hell someone made that.**
+
+🥁 I play drums.
+
+Which is basically programming, except the compiler is your neighbour.
+
+🎨 I like creative stuff.
+
+Design. Animation. Video. Random ideas that somehow turn into projects.
+
+🏐 Volleyball.  
+🏏 Cricket.  
+🏊 Swimming.
+
+💡 I have a minor problem where one idea produces approximately **17 more ideas.**
 
 ☕ Coffee is not optional.
 
-**Neither is Curiosity .**
+Neither is curiosity.
+
+And yes, I know this README is becoming unnecessarily dramatic.
+
+**You're still reading it.**
+
+So who's really winning here?
 
 ---
 
 ## 🌱 Still Loading...
 
-I'm nowhere near finished.
+Still learning.
 
-And that's the fun part.
+Still building.
 
-> **The best version of this profile is the one I haven't written yet.**
+Still breaking things.
 
----
+Still figuring it out.
 
-## 🤝 Let's Connect
+**Good.**
 
-If you're building something interesting, working on a cool project,
-or just want to talk about technology, I'm always up for a conversation.
+I'd be worried if I wasn't.
 
-<p align="center">
-  <a href=www.linkedin.com/in/sumanyu-harjai-507069265>
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
----
-
-<p align="center">
-
-### 💻 Build something worth remembering.
-
-**Thanks for stopping by. 👋**
-
-</p>
+> *The work isn't finished.*
+>
+> *Neither am I.*
